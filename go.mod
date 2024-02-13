@@ -1,9 +1,9 @@
-module github.com/Telmate/terraform-provider-proxmox
+module github.com/ara-reddeer/terraform-provider-proxmox
 
 go 1.18
 
 require (
-	github.com/Telmate/proxmox-api-go v0.0.0-20230319185744-e7cde7198cdf
+	github.com/ara-reddeer/proxmox-api-go v0.0.0-20240213182610-468e9b04288d
 	github.com/hashicorp/go-cty v1.4.1-0.20200414143053-d3edf31b6320
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.25.0
 	github.com/rs/zerolog v1.29.0
